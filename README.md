@@ -1,2 +1,2 @@
-# CamsMinecraftMod
-learning how to mod in minecraft
+# Cams Minecraft Mod
+learning how to mod in Minecraft
