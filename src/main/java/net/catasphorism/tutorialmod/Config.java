@@ -1,5 +1,6 @@
 package net.catasphorism.tutorialmod;
 
+import net.kaupenjoe.TutorialMod;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.common.ForgeConfigSpec;
